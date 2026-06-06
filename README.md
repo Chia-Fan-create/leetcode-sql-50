@@ -6,7 +6,7 @@ This repository records my practice and solutions for the LeetCode SQL 50 study 
 
 - [x] Select (5 / 5)
 - [X] Basic Join (8 / 8)
-- [ ] Aggregation (? / 10)
+- [ ] Aggregation (7 / 10)
 - [ ] Subqueries (? / 7)
 - [ ] Advanced SQL (? / 20)
 
