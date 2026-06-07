@@ -8,11 +8,11 @@ This repository records my practice and solutions for the LeetCode SQL 50 study 
 - [X] Basic Join (9 / 9)
 - [ ] Aggregation (7 / 8)
 - [ ] Sorting and Grouping (4 / 7)
-- [ ] Advanced Select and Joins (1 / 7)
-- [ ] Subqueries (? / 7)
-- [ ] Advanced SQL (? / 7)
+- [ ] Advanced Select and Joins (2 / 7)
+- [ ] Subqueries (1 / 7)
+- [ ] Advanced SQL (2 / 7)
 
-**Total:** 13 / 50
+**Total:** 30 / 50
 
 ### Topics Covered
 - SELECT
