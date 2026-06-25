@@ -9,10 +9,10 @@ This repository records my practice and solutions for the LeetCode SQL 50 study 
 - [X] Aggregation (8 / 8)
 - [X] Sorting and Grouping (7 / 7)
 - [X] Advanced Select and Joins (7 / 7)
-- [ ] Subqueries (1 / 7)
+- [ ] Subqueries (4 / 7)
 - [ ] Advanced SQL (6 / 7)
 
-**Total:** 43 / 50
+**Total:** 46 / 50
 
 ### Topics Covered
 - SELECT
